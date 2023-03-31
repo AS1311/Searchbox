@@ -42,3 +42,7 @@ Thus this model will help reduce food wastage and food security. By collecting, 
 
 <a>https://drive.google.com/file/d/1tiMSZkOnhoCjzKwsorSrO0Ap26IbgrcW/view?usp=drivesdk</a>
 
+<b>UI/UX LINK</b>
+
+<a>https://www.figma.com/proto/iFYht2Uv3Xa8FgRga0LPdW/Searchbox?page-id=0%3A1&node-id=11-29&viewport=-7634%2C-13646%2C0.55&scaling=scale-down&starting-point-node-id=11%3A29 </a>
+
