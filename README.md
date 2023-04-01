@@ -2,7 +2,7 @@
 
 <b> PROBLEM STATEMENT </b>
 
-There is a food scarcity for the slums of our local region. There is no current proposition to distribute food for them. We have also observed excess food wastage at places like hotels and banquet halls. Our problem statement aims at avoid food wasteage and distribute to needy ones. 
+There is a food scarcity for the slums of our local region. There is no current proposition to distribute food for them. We have also observed excess food wastage at places like hotels and banquet halls. Our problem statement aims at reducing food wastage and distributing it to the needy ones. 
 
 
 <b> PROPOSED SOLUTION </b>
